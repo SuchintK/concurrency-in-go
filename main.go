@@ -6,5 +6,12 @@ import (
 
 func main() {
 	// Chapter 3
-	ch3.Routines()
+
+	// Go Routines
+	// ch3.Routines()
+	// ch3.Closures1()
+	// ch3.Closures2()
+	// ch3.WaitGroups()
+	// ch3.Mutexs()
+	ch3.Dos()
 }
