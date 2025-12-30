@@ -13,5 +13,6 @@ func main() {
 	// ch3.Closures2()
 	// ch3.WaitGroups()
 	// ch3.Mutexs()
-	ch3.Dos()
+	// ch3.Dos()
+	ch3.Channels()
 }
